@@ -13,6 +13,7 @@ The circuit is a [Royer
 oscillator](https://en.wikipedia.org/wiki/Royer_oscillator) which generates
 24Vac at several kilohertz on the transformer output. C1 acts as a ballast to
 allow for a higher starting voltage. Once the bulb warms and the mercury
-vaporises, the bulb voltage drops to 10 – 11Vac.
+vaporises, the internal resistance drops and the bulb voltage drops to 10 –
+11Vac.
 
 TBC …

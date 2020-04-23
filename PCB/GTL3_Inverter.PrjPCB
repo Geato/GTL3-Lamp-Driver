@@ -114,50 +114,38 @@ DocumentPath=Project Outputs for GTL3_Inverter\GTL3_Inverter.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for GTL3_Inverter\GTL3_Inverter.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument4]
 DocumentPath=Project Outputs for GTL3_Inverter\GTL3_Inverter.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument5]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for GTL3_Inverter\GTL3_Inverter.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for GTL3_Inverter\GTL3_Inverter.GM20
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for GTL3_Inverter\GTL3_Inverter.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for GTL3_Inverter\GTL3_Inverter.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for GTL3_Inverter\GTL3_Inverter.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for GTL3_Inverter\GTL3_Inverter.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for GTL3_Inverter\GTL3_Inverter.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument12]
-DocumentPath=Project Outputs for GTL3_Inverter\GTL3_Inverter.REP
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for GTL3_Inverter\GTL3_Inverter.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument14]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for GTL3_Inverter\GTL3_Inverter.TXT
 DItemRevisionGUID=
 
@@ -817,6 +805,36 @@ OutputName11=Specctra Design PCB
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+OutputType12=Ansoft Neutral
+OutputName12=Ansoft Neutral (AutoPCB)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=HyperLynx
+OutputName13=HyperLynx (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=Orcad v7 Capture Design
+OutputName14=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=P-CAD ASCII
+OutputName15=P-CAD ASCII (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=P-CAD V16 Schematic Design
+OutputName16=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SiSoft
+OutputName17=SiSoft (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
