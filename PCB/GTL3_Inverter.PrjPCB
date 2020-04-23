@@ -107,7 +107,7 @@ ContentTypeGUID=
 ConfigurationType=
 
 [Generic_SmartPDF]
-AutoOpenFile=-1
+AutoOpenFile=0
 AutoOpenOutJob=-1
 
 [Generic_SmartPDFSettings]
