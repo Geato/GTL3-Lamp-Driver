@@ -30,7 +30,10 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 OutputPath=Project Outputs for GTL3_Inverter
 LogFolderPath=
-ManagedProjectGUID=
+ManagedProjectGUID=57F2B71C-E536-4EA6-AD91-65A51B2C800C
+VaultGUID=67013281-7C3B-4B73-8BCA-132873A1111A
+ReleaseVaultName=Greg Eaton
+ItemGUID=57F2B71C-E536-4EA6-AD91-65A51B2C800C
 IncludeDesignInRelease=0
 
 [Preferences]
