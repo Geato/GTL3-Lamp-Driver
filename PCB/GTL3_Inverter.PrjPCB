@@ -216,6 +216,18 @@ OutputJobFileName1=Assembly.OutJob
 ContentTypeGUID=0D12F8DC-E60C-11DF-B822-12313F0024A2
 ConfigurationType=Assembly
 
+[Configuration4]
+Name=Assembly Ver1
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+Variant=Ver1
+OutputJobsCount=1
+DocumentReferenceClass1=DocumentReference
+OutputJobFileName1=Assembly.OutJob
+ContentTypeGUID=0D12F8DC-E60C-11DF-B822-12313F0024A2
+ConfigurationType=Assembly
+
 [Generic_SmartPDF]
 AutoOpenFile=0
 AutoOpenOutJob=-1
